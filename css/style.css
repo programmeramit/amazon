@@ -1,0 +1,10 @@
+.button{
+    height:100px;
+    width:100px;
+    background-color: black;
+    
+}
+body{
+    display: flex;
+    gap:10px;
+}
